@@ -1,0 +1,7 @@
+print("Hello Abhinav, AI journey started!")
+
+name="Abhinav"
+age=30
+
+print("My name is",name)
+print("My age is",age)
