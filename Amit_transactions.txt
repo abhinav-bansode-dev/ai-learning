@@ -1,0 +1,5 @@
+Owner: Amit
+Balance: 100
+Transactions:
+- Deposited 100
+- Withdrew 200 (overdraft allowed)

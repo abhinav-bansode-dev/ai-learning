@@ -1,0 +1,5 @@
+Owner: Sneha
+Balance: 250
+Transactions:
+- Deposited 100
+- Failed withdrawal (minimum balance rule)
