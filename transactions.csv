@@ -1,0 +1,5 @@
+id,amount,status
+1,100,SUCCESS
+2,-50,PENDING
+3,abc,SUCCESS
+4,200,INVALID
