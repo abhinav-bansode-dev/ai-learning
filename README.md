@@ -11,19 +11,6 @@ A personal collection of Python learning projects, mini-projects, and AI/LLM exp
 - [Repository structure](#repository-structure)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration (.env)](#configuration-env)
-- [Usage examples](#usage-examples)
-  - [Weather scripts](#weather-scripts)
-  - [LLM / OpenAI example](#llm--openai-example)
-  - [Gemini / LangChain examples](#gemini--langchain-examples)
-  - [Mini-projects & utilities](#mini-projects--utilities)
-  - [Data analysis](#data-analysis)
-- [Tests](#tests)
-- [Data & persistence](#data--persistence)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [Security & Notes](#security--notes)
-- [Contact](#contact)
 
 ---
 
@@ -31,8 +18,8 @@ A personal collection of Python learning projects, mini-projects, and AI/LLM exp
 This repository is a learning workspace for Python and AI-related experiments. It contains multiple standalone scripts demonstrating:
 - API clients (weather, jokes, crypto)
 - LLM calls (OpenAI, Gemini) and LangChain/semantic-kernel integrations
-- Mini-projects (task manager, log analyzer, banking example)
-- Simple data analysis (crypto price analyzer)
+- Mini-projects (task manager, log analyzer)
+- Simple data analysis (crypto price analyzer, CLI tools)
 - Unit tests and small persistence examples
 
 ---
